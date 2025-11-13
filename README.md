@@ -25,7 +25,11 @@ This repository contains a comprehensive analysis of consumer behaviour and shop
 
 ## Analysis Sections
 
-### 1. Overview Dashboard
+### 1. Overview Dashboard<p align="center">
+  <img src="overview.png" width="150" />
+ 
+</p>
+
 Provides high-level metrics and trends, including:
 - **Revenue by Category**: 
   - Clothing: $1,737 (44.5%)
@@ -42,6 +46,7 @@ Provides high-level metrics and trends, including:
 - **Purchase Amount Time Series**: Shows fluctuations between 2K-4K USD over the analyzed period (September - November)
 
 ### 2. Demographics Analysis
+  <img src="demographic.png" width="150" />
 #### Age Distribution
 - **55+ age group**: Highest revenue contributor (~$70K)
 - **25-34 age group**: Second highest (~$45K)
@@ -63,6 +68,7 @@ Provides high-level metrics and trends, including:
 **Note**: The gender distribution shows a significant skew toward male customers, which may represent a market opportunity for targeting female demographics.
 
 ### 3. Product Performance
+  <img src="product.png" width="150" />
 Top performing products by revenue (all approximately $10K-$10.5K):
 1. Blouse
 2. Shirt
@@ -78,7 +84,7 @@ Top performing products by revenue (all approximately $10K-$10.5K):
 **Insight**: Product performance is relatively uniform, suggesting diverse customer preferences without dominant bestsellers.
 
 ### 4. Operations Analysis
-
+  <img src="operation.png" width="150" />
 #### Purchase Frequency Revenue
 - **Every 3 Months**: $584 (highest)
 - **Annually**: $572
