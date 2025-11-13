@@ -199,5 +199,5 @@ This analysis is based on the publicly available dataset from Kaggle. Please ref
 
 ---
 
-**Last Updated**: November 2025  
+
 **Dataset Version**: Consumer Behavior and Shopping Habits Dataset (Kaggle)
